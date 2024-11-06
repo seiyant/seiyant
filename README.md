@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Seiya**, and I'm an **Electrical Engineering student at UBC**. 
+My name is **Seiya**, and I'm an **Electrical Engineering** student at **UBC**. 
 
 Here, you’ll find some **public projects** I’ve contributed to!
 
