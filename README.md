@@ -5,7 +5,7 @@ My name is **Seiya**, and I'm an **Electrical Engineering student at UBC**.
 Here, you’ll find some **public projects** I’ve contributed to!
 
 ### Current Project
-Currently working on a **computer vision project** for **marker detection** in **computer-assisted surgery** (focused on **mandibular cancer surgery**). 
+Currently working on a **computer vision project** in **computer-assisted surgery** (focusing on **jaw surgery** for **mandibular cancers**). 
 
 Collaborating with the **ISTAR group** at Vancouver General Hospital, we're using **OpenCV** and **3D Slicer** to make a **high-resolution angle sensor**. 
 
