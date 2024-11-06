@@ -9,6 +9,4 @@ I'm currently working on a **computer vision project** for **marker detection** 
 
 In collaboration with the **ISTAR group** at Vancouver General Hospital, we're using **OpenCV** and **3D Slicer** to develop a **high-resolution angle sensor**. 
 
-This system helps surgeons achieve precise positioning and angle measurements, enhancing surgical accuracy and usability. 🩺
-
-Feel free to reach out!
+The goal is to help surgeons achieve precise positioning and angle measurements. 🩺
