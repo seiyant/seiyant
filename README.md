@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Seiya**, and I'm a recent graduate in **Electrical Engineering** from **UBC**. 
+My name is **Seiya**, and I'm a recent **Electrical Engineering graduate** from **UBC**. 
 
 Here, you’ll find some **public projects** I’ve contributed to!
 
